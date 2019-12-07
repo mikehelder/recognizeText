@@ -1,0 +1,7 @@
+.vscode/
+data/converted/
+data/source/*
+data/source_zipped/
+
+#secrets
+.env
