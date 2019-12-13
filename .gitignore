@@ -1,7 +1,17 @@
+#environment
 .vscode/
-data/converted/
-data/source/*
-data/source_zipped/
+
+#data
+data/converted/*
+data/source/audio/*
+data/source/images/*
+data/source/original_files_unzipped/*
+data/source/original_files_zipped/*
+data/source/other/*
+data/source/videos/*
+
 
 #secrets
 .env
+
+
