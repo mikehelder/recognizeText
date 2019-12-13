@@ -3,8 +3,6 @@
 
 This repo is about converting text from images,audio and video files to plain text files using Microsoft Cognitive Services <br>
 
-author: "Mike van den Helder" <br>
-date: 2019-12-13
 
 Steps:
 1. Register for Microsoft Cognitive Services and put your API_KEY and the endpoint of Cognitive Services in a `.env` file.
